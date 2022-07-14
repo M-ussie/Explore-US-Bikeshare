@@ -62,7 +62,9 @@ To complete this project, the following software requirements apply:
 •	A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 
 What software did I use to do this project?
+
 I used the following software to complete these projects:
+
 •	Anaconda
 •	Visual Studio Code
 •	NumPy 
@@ -72,6 +74,8 @@ I used the following software to complete these projects:
 
 
 What Files did I use to do this project?
+
+
 chicago.csv
 new_york_city.csv
 washington.csv
