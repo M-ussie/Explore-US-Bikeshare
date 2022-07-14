@@ -66,10 +66,15 @@ What software did I use to do this project?
 I used the following software to complete these projects:
 
 •	Anaconda
+
 •	Visual Studio Code
+
 •	NumPy 
+
 •	Python
+
 •	PyCharm
+
 •	Pandas
 
 
@@ -77,6 +82,8 @@ What Files did I use to do this project?
 
 
 chicago.csv
+
 new_york_city.csv
+
 washington.csv
 
